@@ -1,9 +1,13 @@
+using AR.Data;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.OpenApi.Models;
+using Microsoft.EntityFrameworkCore;
+using AR.Data.Interfaces;
+using AR.Data.Tools;
 
 namespace AR.Apresentacao
 {
@@ -25,6 +29,12 @@ namespace AR.Apresentacao
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "AR.Apresentacao", Version = "v1" });
             });
+            //Referencia da Interface IClienteRepository
+            services.AddScoped<IClienteRepository, ClienteRepository>(); 
+
+            // Expressão Lambdas
+            services.AddDbContext<ContextoPrincipal>(options =>
+                options.UseSqlServer(Configuration.GetConnectionString("ApiRestConnectionString")));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

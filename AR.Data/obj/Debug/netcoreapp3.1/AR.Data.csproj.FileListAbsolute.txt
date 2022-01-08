@@ -1,0 +1,16 @@
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Data.deps.json
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Data.runtimeconfig.json
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Data.runtimeconfig.dev.json
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Data.dll
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Data.pdb
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Domain.dll
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\bin\Debug\netcoreapp3.1\AR.Domain.pdb
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.csproj.AssemblyReference.cache
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.AssemblyInfoInputs.cache
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.AssemblyInfo.cs
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.csproj.CoreCompileInputs.cache
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.csproj.CopyComplete
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.dll
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.pdb
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Data\obj\Debug\netcoreapp3.1\AR.Data.genruntimeconfig.cache

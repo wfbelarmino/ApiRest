@@ -1,0 +1,10 @@
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\bin\Debug\netcoreapp3.1\AR.Domain.deps.json
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\bin\Debug\netcoreapp3.1\AR.Domain.dll
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\bin\Debug\netcoreapp3.1\AR.Domain.pdb
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.csproj.AssemblyReference.cache
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.AssemblyInfoInputs.cache
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.AssemblyInfo.cs
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.csproj.CoreCompileInputs.cache
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.dll
+C:\Users\KAKE\Documents\Projetos\Cybertron\WebApiRest\ApiRest\AR.Domain\obj\Debug\netcoreapp3.1\AR.Domain.pdb

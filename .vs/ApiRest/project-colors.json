@@ -5,7 +5,17 @@
       "ProjectGuid": "71913296-905d-4766-9dd4-a24b0fe7e08d",
       "DisplayName": "AR.Apresentacao",
       "ColorIndex": 0
+    },
+    "41ff402a-4d01-42d9-ae48-f8024b85ad85": {
+      "ProjectGuid": "41ff402a-4d01-42d9-ae48-f8024b85ad85",
+      "DisplayName": "AR.Domain",
+      "ColorIndex": 1
+    },
+    "3d5451f2-10a2-443d-96fa-1d6efbd0e6d2": {
+      "ProjectGuid": "3d5451f2-10a2-443d-96fa-1d6efbd0e6d2",
+      "DisplayName": "AR.Data",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 3
 }
